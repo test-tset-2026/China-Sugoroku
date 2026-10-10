@@ -1,0 +1,16 @@
+{
+  "name": "中国大陸すごろく",
+  "short_name": "大陸すごろく",
+  "description": "中国大陸の118の町をめぐり、特産品を買い集める桃鉄風のすごろく（2〜8人・オンライン対戦つき）",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#4aa3e0",
+  "theme_color": "#c81e1e",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
